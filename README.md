@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @lmsok
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lmsok/lmsok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 Монолитные операционные системы, это такие системы в которых:
